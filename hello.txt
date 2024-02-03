@@ -1,4 +1,2 @@
 Hello this is Rabson Innocent Phiri from Innora solution layer
 
-This is version control for all code LBTC
-
